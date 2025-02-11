@@ -1,0 +1,6 @@
+{
+    "log_file": "logs/server_logs.txt",
+    "alert_log_file": "logs/alert_log.txt",
+    "alert_threshold": 5,
+    "check_interval": 3
+}
